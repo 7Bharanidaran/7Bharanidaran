@@ -53,7 +53,14 @@ SIEM Log Analysis | IDS | Honeypot (Cowrie) | Firewall Automation (UFW)
 🛠️ Building more hands-on Blue Team projects
 ---
 📫 Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/bharanidaran-s-283a5a316/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/7Bharanidaran">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 ---
 ⭐ "Security is not a product, but a process." — Bruce Schneier
