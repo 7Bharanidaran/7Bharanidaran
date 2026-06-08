@@ -1,57 +1,205 @@
-Hey there, I'm Bharanidaran S 👋
-🎓 B.E CSE (Cybersecurity) @ VIT Chennai | 2nd Year  
-🔵 Aspiring Network Security Engineer | Blue Team Enthusiast  
-📍 Tamil Nadu, India
+# Hey there, I'm Bharanidaran S 
+
+### Cybersecurity Student @ VIT Chennai | Aspiring cybersecurity engineer
+
+Passionate about defending networks, analyzing security events, and building practical cybersecurity solutions. My primary interests lie in Security Operations (SOC), Network Security Monitoring, Threat Detection, and Blue Team Engineering.
+
+I believe cybersecurity is best learned through hands-on practice, which is why I actively build labs, deploy security tools, analyze logs, and work on projects that simulate real-world security operations.
+
 ---
-🛡️ About Me
-I'm a Cybersecurity specialization student at VIT Chennai, passionate about network security, Blue Team operations and SOC workflows. I believe in learning by building — every project I create is hands-on and real-world focused.
-Currently focused on:
-🔵 Blue Team Security Operations
-🌐 Software Defined Networking (SDN)
-🔍 Log Analysis & Threat Detection
-🚨 Intrusion Detection & Honeypots
+
+## About Me
+
+🎓 B.E. Computer Science & Engineering (Cybersecurity) — VIT Chennai
+
+🛡️ Aspiring Network Security Engineer with a strong interest in Blue Team operations and defensive security.
+
+🔍 Focused on understanding how attackers operate and how organizations can detect, investigate, and respond to threats effectively.
+
+⚡ Continuously improving my skills through security labs, practical projects, and hands-on learning platforms.
+
 ---
-🔧 Technical Skills
-Languages & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=powershell&logoColor=black)
-Networking & Security Tools  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-SDN & Networking
-Mininet | Ryu Controller | Open vSwitch | OpenFlow
-Security Skills
-SIEM Log Analysis | IDS | Honeypot (Cowrie) | Firewall Automation (UFW)
+
+## Core Areas of Interest
+
+- Network Security
+- Security Operations Center (SOC)
+- Threat Detection & Investigation
+- Security Monitoring
+- Log Analysis
+- Intrusion Detection
+- Incident Response
+- Linux Security
+- Network Traffic Analysis
+
 ---
-🏆 Certifications
-🥇 Google Cybersecurity Certificate — Google
-🥇 Python for Everybody — University of Michigan
-🎯 Currently practicing on TryHackMe (Blue Team path)
+
+## Technical Skills
+
+### Programming & Automation
+
+- Python — Security automation, log parsing, and scripting
+- Bash — Linux administration and task automation
+- C / C++ — System-level programming fundamentals
+
+### Operating Systems
+
+- Linux
+- Kali Linux
+- Windows
+
+### Security Monitoring & SIEM
+
+- Splunk
+  - Log collection and analysis
+  - Security monitoring
+  - Alert creation
+  - Dashboard development
+
+- Sysmon
+  - Endpoint activity monitoring
+  - Process creation tracking
+  - Security event visibility
+
+### Network Security Monitoring
+
+- Zeek
+  - Network traffic analysis
+  - Protocol monitoring
+  - Security event generation
+
+- Wireshark
+  - Packet analysis
+  - Protocol inspection
+  - Network troubleshooting
+
+- tcpdump
+  - Command-line packet capture
+  - Traffic investigation
+
+### Threat Detection & Defensive Security
+
+- Suricata
+  - Network intrusion detection
+  - Threat monitoring
+  - Signature-based detection
+
+- Snort
+  - Intrusion detection and prevention
+  - Network threat analysis
+
+- YARA
+  - Malware identification
+  - Threat hunting
+
+- Cowrie Honeypot
+  - Attacker behavior analysis
+  - Credential attack monitoring
+  - Threat intelligence collection
+
+### Network Engineering
+
+- TCP/IP
+- Routing & Switching
+- DNS
+- DHCP
+- VLAN Fundamentals
+- Software Defined Networking (SDN)
+- OpenFlow
+
+### Security Concepts
+
+- SOC Operations
+- Log Analysis
+- Threat Hunting
+- Incident Response
+- Network Security Monitoring
+- Intrusion Detection Systems (IDS)
+- Security Event Investigation
+- Security Automation
+
 ---
-📂 Featured Projects
-🔒 Project	📝 Description	🛠️ Tech
-🌐 SDN Traffic Prioritization ML	ML-based network traffic classifier prioritizing academic traffic in hostel WiFi	Python, Mininet, Ryu, ML
-🔍 SIEM Log Analyzer	SOC-style brute force detection with automated alerts	Python
-🍯 Linux Honeypot (Cowrie)	Honeypot deployment to capture and analyze attacker behavior	Python, Cowrie
-🔥 Firewall Rule Automation	Automated firewall rule management using Bash and UFW	Bash, UFW
-🚨 Simple IDS	Shell-based intrusion detection system	Shell
-🐧 Linux System Tools	Linux automation scripts for system monitoring	Shell
-🔐 Data Encryption Decryption	Python-based encryption and decryption tool	Python
-🔑 Kali Linux Password Auth Labs	Ethical hacking labs on password attacks with SOC defenses	Kali Linux
+
+## Certifications
+
+🏆 Google Cybersecurity Professional Certificate
+
+🏆 Python for Everybody Specialization – University of Michigan
+
+🎯 TryHackMe Blue Team Learning Path (In Progress)
+
 ---
-📊 GitHub Stats
-![Bharanidaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Bharanidaran&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Bharanidaran&layout=compact&theme=tokyonight&hide_border=true)
+
+## Featured Projects
+
+### 🔍 Splunk Security Monitoring Lab
+
+Designed a SIEM environment to collect, monitor, and analyze security logs. Built dashboards and conducted investigations using real-world security events.
+
+**Technologies:** Splunk, Sysmon, Windows Logs
+
 ---
-🎯 Currently Working On
-📖 Deepening knowledge in Network Security Engineering
-🔵 Completing TryHackMe SOC Level 1 path
-📜 Preparing for Cisco CyberOps Associate certification
-🛠️ Building more hands-on Blue Team projects
+
+### 🌐 Zeek Network Traffic Analysis
+
+Implemented Zeek for network monitoring and analyzed generated logs to identify suspicious network activities and communication patterns.
+
+**Technologies:** Zeek, Linux, Network Traffic Analysis
+
 ---
+
+### 🍯 Cowrie Honeypot Deployment
+
+Deployed and managed a Cowrie SSH honeypot to capture attacker activity, study attack techniques, and analyze collected telemetry.
+
+**Technologies:** Cowrie, Linux, Python
+
+---
+
+### 🔥 Firewall Rule Automation
+
+Developed Bash scripts to automate firewall management, simplify rule deployment, and improve system security administration.
+
+**Technologies:** Bash, UFW, Linux
+
+---
+
+### 🚨 Intrusion Detection System
+
+Built a lightweight intrusion detection solution for monitoring suspicious activity and generating security alerts.
+
+**Technologies:** Linux, Shell Scripting
+
+---
+
+## Current Learning Focus
+
+- Security Operations Center (SOC) Workflows
+- Zeek Network Security Monitoring
+- Splunk SIEM Engineering
+- Threat Detection & Incident Investigation
+- Linux System Security
+- Network Defense Techniques
+- Cisco CyberOps Associate Preparation
+
+---
+
+## GitHub Objectives
+
+This GitHub serves as a portfolio documenting my cybersecurity learning journey, practical labs, and security projects.
+
+Here you'll find:
+
+- Blue Team Projects
+- Security Monitoring Labs
+- Network Security Experiments
+- Linux Security Tools
+- Detection Engineering Exercises
+- Threat Analysis Documentation
+
+
+
+> "Security is not a product, but a process." — Bruce Schneier
 📫 Connect With Me
 ## 📫 Connect With Me
 
