@@ -10,7 +10,7 @@ I believe cybersecurity is best learned through hands-on practice, which is why 
 
 ## About Me
 
-🎓 B.E. Computer Science & Engineering (Cybersecurity) — VIT Chennai
+🎓 B.TECH Computer Science & Engineering (Cybersecurity) — VIT Chennai
 
 🛡️ Aspiring Network Security Engineer with a strong interest in Blue Team operations and defensive security.
 
