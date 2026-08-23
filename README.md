@@ -10,13 +10,13 @@ I believe cybersecurity is best learned through hands-on practice, which is why 
 
 ## About Me
 
-🎓 B.TECH Computer Science & Engineering (Cybersecurity) — VIT Chennai
+ B.TECH Computer Science & Engineering (Cybersecurity) — VIT Chennai
 
-🛡️ Aspiring Network Security Engineer with a strong interest in Blue Team operations and defensive security.
+ Aspiring Network Security Engineer with a strong interest in Blue Team operations and defensive security.
 
-🔍 Focused on understanding how attackers operate and how organizations can detect, investigate, and respond to threats effectively.
+ Focused on understanding how attackers operate and how organizations can detect, investigate, and respond to threats effectively.
 
-⚡ Continuously improving my skills through security labs, practical projects, and hands-on learning platforms.
+ Continuously improving my skills through security labs, practical projects, and hands-on learning platforms.
 
 ---
 
@@ -122,17 +122,17 @@ I believe cybersecurity is best learned through hands-on practice, which is why 
 
 ## Certifications
 
-🏆 Google Cybersecurity Professional Certificate
+ Google Cybersecurity Professional Certificate
 
-🏆 Python for Everybody Specialization – University of Michigan
+ Python for Everybody Specialization – University of Michigan
 
-🎯 TryHackMe Blue Team Learning Path (In Progress)
+ TryHackMe Blue Team Learning Path (In Progress)
 
 ---
 
 ## Featured Projects
 
-### 🔍 Splunk Security Monitoring Lab
+###  Splunk Security Monitoring Lab
 
 Designed a SIEM environment to collect, monitor, and analyze security logs. Built dashboards and conducted investigations using real-world security events.
 
@@ -140,7 +140,7 @@ Designed a SIEM environment to collect, monitor, and analyze security logs. Buil
 
 ---
 
-### 🌐 Zeek Network Traffic Analysis
+###  Zeek Network Traffic Analysis
 
 Implemented Zeek for network monitoring and analyzed generated logs to identify suspicious network activities and communication patterns.
 
@@ -148,7 +148,7 @@ Implemented Zeek for network monitoring and analyzed generated logs to identify 
 
 ---
 
-### 🍯 Cowrie Honeypot Deployment
+###  Cowrie Honeypot Deployment
 
 Deployed and managed a Cowrie SSH honeypot to capture attacker activity, study attack techniques, and analyze collected telemetry.
 
@@ -156,7 +156,7 @@ Deployed and managed a Cowrie SSH honeypot to capture attacker activity, study a
 
 ---
 
-### 🔥 Firewall Rule Automation
+###  Firewall Rule Automation
 
 Developed Bash scripts to automate firewall management, simplify rule deployment, and improve system security administration.
 
