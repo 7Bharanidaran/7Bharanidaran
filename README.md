@@ -164,7 +164,7 @@ Developed Bash scripts to automate firewall management, simplify rule deployment
 
 ---
 
-### 🚨 Intrusion Detection System
+###  Intrusion Detection System
 
 Built a lightweight intrusion detection solution for monitoring suspicious activity and generating security alerts.
 
